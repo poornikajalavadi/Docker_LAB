@@ -41,7 +41,4 @@ docker save lab1:v1 > my_image.tar
 docker load < my_image.tar
 ```
 
-## Docker Image
-![Docker Images](images/docker_images.png)
 
-## Expected Output
